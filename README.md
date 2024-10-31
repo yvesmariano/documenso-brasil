@@ -9,7 +9,7 @@
     <br />
     <a href="https://documen.so/discord">Discord</a>
     ·
-    <a href="https://documenso.com">Website</a>
+    <a href="https://documenso.com.br">Website</a>
     ·
     <a href="https://github.com/documenso/documenso/issues">Issues</a>
     ·
